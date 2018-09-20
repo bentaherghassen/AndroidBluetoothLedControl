@@ -5,11 +5,11 @@ LED control using Arduino and Android
 
 
 
-	Website 	:   		www.bentaherghassen.com 
+	Website 	:   			www.bentaherghassen.com 
 	Facebook 	:  			https://www.facebook.com/bghassen
 	twitter 	: 			http://www.twitter.com/bghass_en 
-	instagram 	: 		http://www.instagram.com/bentaherghassen 
-	E-mail 		:			  bentaherghassen@hotmail.com
+	instagram 	: 			http://www.instagram.com/bentaherghassen 
+	E-mail 		:			bentaherghassen@hotmail.com
 
 
 
