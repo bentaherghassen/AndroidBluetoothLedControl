@@ -5,9 +5,9 @@ LED control using Arduino and Android
 
 
 
-	Website 	:   			www.bentaherghassen.com 
+	Blog	 	:   			https://ghassenbentaher.blogspot.com
 	Facebook 	:  			https://www.facebook.com/bghassen
-	twitter 	: 			http://www.twitter.com/bghass_en 
+	twitter 	: 			http://www.twitter.com/bentaherghassen 
 	instagram 	: 			http://www.instagram.com/bentaherghassen 
 	E-mail 		:			bentaherghassen@hotmail.com
 
